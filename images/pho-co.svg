@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-labelledby="t"><title id="t">Phố cổ Hà Nội với nhà mái ngói và đèn lồng</title>
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9fd0e6"/><stop offset="1" stop-color="#fbeccb"/></linearGradient></defs>
+<rect width="400" height="300" fill="url(#s)"/><rect y="250" width="400" height="50" fill="#7d7a73"/>
+<rect x="10" y="110" width="105" height="140" fill="#e3b94f"/><rect x="125" y="80" width="110" height="170" fill="#d98a5b"/><rect x="245" y="120" width="145" height="130" fill="#e9d79a"/>
+<g fill="#6a4633"><polygon points="4,110 121,110 112,96 13,96"/><polygon points="119,80 241,80 230,64 130,64"/><polygon points="239,120 396,120 384,106 251,106"/></g>
+<g fill="#2f6b5e"><rect x="28" y="130" width="22" height="34"/><rect x="75" y="130" width="22" height="34"/><rect x="145" y="105" width="24" height="38"/><rect x="195" y="105" width="24" height="38"/><rect x="270" y="140" width="24" height="34"/><rect x="340" y="140" width="24" height="34"/></g>
+<g fill="#4b3226"><rect x="20" y="178" width="90" height="6"/><rect x="138" y="160" width="92" height="6"/><rect x="262" y="190" width="110" height="6"/></g>
+<g fill="#4b3226"><rect x="40" y="205" width="40" height="45"/><rect x="160" y="190" width="45" height="60"/><rect x="300" y="205" width="50" height="45"/></g>
+<g stroke="#4b3226" stroke-width="2"><line x1="28" y1="184" x2="28" y2="196"/><line x1="100" y1="184" x2="100" y2="192"/><line x1="150" y1="166" x2="150" y2="176"/><line x1="220" y1="166" x2="220" y2="174"/></g>
+<g fill="#c4271f"><ellipse cx="28" cy="203" rx="8" ry="10"/><ellipse cx="100" cy="199" rx="7" ry="9"/><ellipse cx="150" cy="184" rx="8" ry="10"/><ellipse cx="220" cy="182" rx="7" ry="9"/></g>
+</svg>
